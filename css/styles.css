@@ -39,7 +39,7 @@ h1,h2,h3 {
 }
 /* navigation bar */
 .navbar-brand {
-  font-size  : 2rem;
+  font-size  : 3rem;
   font-family: 'Ubuntu', sans-serif;
   font-weight: bold;
 }
